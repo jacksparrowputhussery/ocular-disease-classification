@@ -12,16 +12,6 @@ An end-to-end medical deep learning system for automated multi-class ocular dise
 
 ---
 
-## 👥 Authors
-
-| Name | Roll Number |
-| :--- | :--- |
-| **Jake S Puthussery** | `2023bcs0088` |
-| **Karthik M** | `2023bcs0127` |
-| **Nimisha M Iyer** | `2023bcd0004` |
-
----
-
 ## 📌 Executive Summary
 
 Ocular diseases such as **Age-related Macular Degeneration (AMD)**, **Cataract**, **Diabetic Retinopathy (DR)**, and **Glaucoma** are among the leading etiologies of irreversible visual impairment and preventable blindness globally. Automated screening from color fundus photography offers an effective pathway for early clinical intervention; however, severe inter-class imbalance, subtle microvascular lesions, and sensor-induced illumination artifacts pose critical diagnostic challenges.
