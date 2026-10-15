@@ -17,3 +17,8 @@ Thumbs.db
 .env
 venv/
 env/
+
+# Root-level working docs and strict builds
+/Final_Project_Report_Ocular_Disease_Classification.docx
+/Final_Project_Report_Strict.docx
+*Strict.docx
